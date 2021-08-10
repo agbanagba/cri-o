@@ -55,9 +55,9 @@ require (
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/vishvananda/netlink v1.1.1-0.20201029203352-d40f9887b852
-	golang.org/x/net v0.0.0-20210520170846-37e1c6afe023
+	golang.org/x/net v0.0.0-20210525063256-abc453219eb5
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
+	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
 	google.golang.org/grpc v1.39.0
 	k8s.io/api v0.21.2
 	k8s.io/apimachinery v0.21.3
@@ -65,7 +65,7 @@ require (
 	k8s.io/cri-api v0.21.2
 	k8s.io/klog/v2 v2.10.0
 	k8s.io/kubernetes v1.21.2
-	k8s.io/release v0.8.0
+	k8s.io/release v0.10.0
 	k8s.io/utils v0.0.0-20210707171843-4b05e18ac7d9
 	mvdan.cc/sh/v3 v3.3.0
 	sigs.k8s.io/release-utils v0.3.0
